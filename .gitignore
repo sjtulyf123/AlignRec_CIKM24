@@ -1,0 +1,5 @@
+__pycache__/
+src/log/
+loss_mm_acc_0.txt
+src/saved_models/
+.idea
