@@ -22,7 +22,7 @@ bash scripts.sh
 In our paper, we produce multimodal features which are expected to be better than the commonly used features in Amazon dataset mentioned in MMRec.
 Our new multimodal features can be found in ```/data/beit3_128token_add_title_brand_to_text/``` folder.
 They represent the aligned multimodal features which fuse image and text information. 
-Please note that we still use ```image.npy``` to name them in order to keep consistent with the original multimodal features.
+Please note that we still use ```image_feat.npy``` to name them in order to keep consistent with the original multimodal features.
 
 
 **Please consider to cite our paper if this code helps you, thanks:**
