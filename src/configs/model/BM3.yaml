@@ -1,0 +1,30 @@
+embedding_size: 64
+feat_embed_dim: 64
+
+n_layers: [1, 2]
+dropout: [0.3, 0.5]
+reg_weight: [0.1, 0.01]
+cl_weight: 2.0
+learning_rate: [0.005,0.001,0.0005,0.0001]
+# n_layers: 1
+# dropout: 0.3
+# reg_weight: [0.1,1,2]
+# cl_weight: [0.1,1,2]
+# learning_rate: [0.003,0.001,0.0007]
+
+use_neg_sampling: False
+
+hyper_parameters: ["learning_rate", "reg_weight","n_layers","dropout"]
+
+# embedding_size: 64
+# feat_embed_dim: 64
+
+# n_layers: [1]
+# dropout: [ 0.5]
+# reg_weight: [0.01]
+# cl_weight: 2.0
+# seed: [888,777,666,555]
+
+# use_neg_sampling: False
+
+# hyper_parameters: ["n_layers", "reg_weight", "dropout","seed"]
