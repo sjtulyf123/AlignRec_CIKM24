@@ -27,10 +27,18 @@ Please note that we still use ```image_feat.npy``` to name them in order to keep
 
 **Please consider to cite our paper if this code helps you, thanks:**
 ```
-@inproceedings{liu2024alignrec,
-author = {Yifan Liu, Kangning Zhang, Xiangyuan Ren, Yanhua Huang, Jiarui Jin, Yingjie Qin, Ruilong Su, Ruiwen Xu, Yong Yu, and Weinan Zhang},
+@inproceedings{10.1145/3627673.3679626,
+author = {Liu, Yifan and Zhang, Kangning and Ren, Xiangyuan and Huang, Yanhua and Jin, Jiarui and Qin, Yingjie and Su, Ruilong and Xu, Ruiwen and Yu, Yong and Zhang, Weinan},
 title = {AlignRec: Aligning and Training in Multimodal Recommendations},
-booktitle = {Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM ’24)},
-year = {2024}
+year = {2024},
+isbn = {9798400704369},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3627673.3679626},
+doi = {10.1145/3627673.3679626},
+pages = {1503–1512},
+numpages = {10},
+location = {Boise, ID, USA},
+series = {CIKM '24}
 }
 
